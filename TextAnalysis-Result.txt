@@ -1,0 +1,131 @@
+/home/oliver/anaconda3/envs/Python/bin/python "/home/oliver/Documents/Python/Financial Information Retrieval/TextAnalysis.py"
+----------------------------------------------------------------------
+['', 'title\n0', "Scotland's Salmond launches rival pro-independence party - Reuters Africa\n1", '"Scottish leader Sturgeon found to have misled parliament', ' Sky reports - Reuters"\n2', "Scotland's future hangs in balance as report into leader's conduct awaited - Reuters.com\n3", "Scotland's future hangs in balance as report into leader's conduct awaited - Reuters Australia\n4", "SNP publishes 'reckless' bill for second independence referendum by end of 2023\n5", "Holyrood 2021: SNP's Sturgeon pledges to double child payment\n6", "Holyrood election 2021: The 'intense' battle for every vote in Scotland\n7", 'How Scots and Catalans are looking to each other to ease their independence woes\n8', '"Politics latest news: Government only learned about vaccine shortage \'in last few days\'', ' minister admits"\n9', "Douglas Ross urges Unionists to 'rediscover Better Together spirit' from 2014 to stop SNP\n10", "Nicola Sturgeon only able to hand large pay rise to Scottish NHS staff 'thanks to Treasury billions'\n11", '"Scotland can’t move ‘too fast’ out of lockdown', ' Anas Sarwar warns', ' as latest figures show it has highest Covid rate in UK"\n12', "Can Labour's New Leader in Scotland Take Advantage of Disarray in SNP to Mount a Comeback?\n13", 'Former SNP MP Kenny MacAskill Won’t Hold By-Election After Defecting to Alba Party\n14', '"Starmer: Time for recovery in Scotland', ' not a referendum"\n15', "Holyrood 2021: 'Time to end the scandal of child poverty'\n16", "Sturgeon Blasts Treating Politics ‘Like a Game' Amid Spate of Defections from SNP to Salmond’s Alba\n17", "SNP applies to put 'Indyref2' on Holyrood election ballot paper\n18", 'Who’ll win the Airdrie and Shotts by-election?\n19', "Scottish Liberal Democrat election gains 'can stop SNP majority'\n20", "Tory Holyrood candidate under fire for 'offensive' comments on public sector pay and Covid\n21", 'Links 3/27/2020\n22', '"UK PM to Reportedly Warn Against ‘Reckless’ 2nd Scottish Referendum', ' Mulls Covert Unionist Strategy"\n23', 'Scottish Parliament election 2021: A really simple guide\n24', 'Will Labour or the Conservatives win the battle for second place in the Scottish election?\n25', "What does Alex Salmond's new party mean for the election?\n26", '"Nicola Sturgeon won’t resign', ' but the Salmond scandal could yet be her downfall"\n27', 'Special report: Sturgeon clings to tarnished crown after inquiries ‘lift lid on the sewer’ of SNP politics\n28', '"The Alex Salmond inquiry has failed to unsettle the SNP', ' but the vaccine roll-out might"\n29', 'Tory MPs slam Nicola Sturgeon over NHS pay rise\n30', 'Holyrood 2021: Labour pledges mental health staff for all GP clinics\n31', 'Polling: Labour voters divided over whether Labour is the party of “the north” or “London”\n32', '2021 elections: A really simple guide\n33', 'SNP to double Scottish child benefit top-up if re-elected\n34', 'Sturgeon row: Scottish Health Secretary Jeane Freeman dismisses calls for FM to quit\n35', 'Nicola Sturgeon faces fury over push for Scottish independence referendum THIS YEAR\n36', '"Fall in support for Scottish independence could be result of ‘vaccine bounce’', ' analysis suggests"\n37', 'Boris Johnson news — live: PM ‘misled parliament’ over Covid contracts as strike fund launched over 1% NHS pay rise\n38', '"Politics latest news: Roadmap out of lockdown unchanged by EU export ban', ' says No 10"\n39', '"Scots turning against SNP plan for independence referendum', ' poll finds"\n40', "Nicola Sturgeon is ridiculed for her 'forgetfulness' as she offers a 'hard to believe' excuse\n41", "Nicola Sturgeon's 'litany of lies' is 'too much for her to survive'\n42", '"Referendum bill could see Scots vote on independence this year', ' SNP say"\n43', 'Alba Party: Can Alex Salmond create a ‘super majority’ for Scottish independence?\n44', "Politics latest news: EU launches legal challenge against UK over 'unlawful' Gibraltar state aid\n45", '"Government repeatedly less strict on coronavirus than public wanted', ' poll finds"\n46', '"Politics latest news:\xa0David Frost \'playing games around Brexit\'', ' claims former mandarin"\n47', 'Nicola Sturgeon faces fury over push for Scottish independence referendum THIS YEAR\n48', 'How Scots and Catalans are looking to each other to ease their independence woes\n49', '"Trials', ' troubles and tribulations: Scots and Catalans look to each other to ease independence woes"\n50', '"SNP no longer set for Holyrood majority', ' new poll shows"\n51', 'Tories warn of Salmond threat to pro-union parties in Scottish election\n52', "Scotland's future hangs in balance as report into leader's conduct awaited\n"]
+----------------------------------------------------------------------
+['', 'title', 'scotlands salmond launches rival proindependence party reuters africa', 'scottish leader sturgeon found   have misled parliament', 'sky reports reuters', 'scotlands future hangs in balance as report into leaders conduct awaited reuterscom', 'scotlands future hangs in balance as report into leaders conduct awaited reuters australia', 'snp publishes reckless bill   second independence referendum   end  ', 'holyrood snps sturgeon pledges   double child payment', 'holyrood election   intense battle   every vote in scotland', 'how scots   catalans are looking   each other   ease their independence woes', 'politics latest news government only learned about vaccine shortage in last few days', 'minister admits', 'douglas ross urges unionists   rediscover better together spirit     stop snp', 'nicola sturgeon only able   hand large pay rise   scottish nhs staff thanks   treasury billions', 'scotland cant move too fast out   lockdown', 'anas sarwar warns', 'as latest figures show   has highest covid rate in uk', '  labours new leader in scotland take advantage   disarray in snp   mount   comeback', 'former snp mp kenny macaskill wont hold byelection after defecting   alba party', 'starmer time   recovery in scotland', '    referendum', 'holyrood time   end   scandal   child poverty', 'sturgeon blasts treating politics like   game amid spate   defections   snp   salmonds alba', 'snp applies   put indyref on holyrood election ballot paper', 'wholl win   airdrie   shotts byelection', 'scottish liberal democrat election gains   stop snp majority', 'tory holyrood candidate under fire   offensive comments on public sector pay   covid', 'links', 'uk pm   reportedly warn against reckless nd scottish referendum', 'mulls covert unionist strategy', 'scottish parliament election   really simple guide', '  labour     conservatives win   battle   second place in   scottish election', 'what does alex salmonds new party mean     election', 'nicola sturgeon wont resign', 'but   salmond scandal could yet be her downfall', 'special report sturgeon clings   tarnished crown after inquiries lift lid on   sewer   snp politics', '  alex salmond inquiry has failed   unsettle   snp', 'but   vaccine rollout might', 'tory mps slam nicola sturgeon over nhs pay rise', 'holyrood labour pledges mental health staff   all gp clinics', 'polling labour voters divided over whether labour is   party     north   london', 'elections   really simple guide', 'snp   double scottish child benefit topup if reelected', 'sturgeon row scottish health secretary jeane freeman dismisses calls   fm   quit', 'nicola sturgeon faces fury over push   scottish independence referendum   year', 'fall in support   scottish independence could be result   vaccine bounce', 'analysis suggests', 'boris johnson news live pm misled parliament over covid contracts as strike fund launched over nhs pay rise', 'politics latest news roadmap out   lockdown unchanged   eu export ban', 'says  ', 'scots turning against snp plan   independence referendum', 'poll finds', 'nicola sturgeon is ridiculed   her forgetfulness as she offers   hard   believe excuse', 'nicola sturgeons litany   lies is too much   her   survive', 'referendum bill could see scots vote on independence   year', 'snp say', 'alba party   alex salmond create   super majority   scottish independence', 'politics latest news eu launches legal challenge against uk over unlawful gibraltar state aid', 'government repeatedly less strict on coronavirus than public wanted', 'poll finds', 'politics latest newsdavid frost playing games around brexit', 'claims former mandarin', 'nicola sturgeon faces fury over push   scottish independence referendum   year', 'how scots   catalans are looking   each other   ease their independence woes', 'trials', 'troubles   tribulations scots   catalans look   each other   ease independence woes', 'snp   longer set   holyrood majority', 'new poll shows', 'tories warn   salmond threat   prounion parties in scottish election', 'scotlands future hangs in balance as report into leaders conduct awaited']
+----------------------------------------------------------------------
+['', 'title\n0', "Scotland's Salmond launches rival pro-independence party - Reuters Africa\n1", '"Scottish leader Sturgeon found to have misled parliament', ' Sky reports - Reuters"\n2', "Scotland's future hangs in balance as report into leader's conduct awaited - Reuters.com\n3", "Scotland's future hangs in balance as report into leader's conduct awaited - Reuters Australia\n4", "SNP publishes 'reckless' bill for second independence referendum by end of 2023\n5", "Holyrood 2021: SNP's Sturgeon pledges to double child payment\n6", "Holyrood election 2021: The 'intense' battle for every vote in Scotland\n7", 'How Scots and Catalans are looking to each other to ease their independence woes\n8', '"Politics latest news: Government only learned about vaccine shortage \'in last few days\'', ' minister admits"\n9', "Douglas Ross urges Unionists to 'rediscover Better Together spirit' from 2014 to stop SNP\n10", "Nicola Sturgeon only able to hand large pay rise to Scottish NHS staff 'thanks to Treasury billions'\n11", '"Scotland can’t move ‘too fast’ out of lockdown', ' Anas Sarwar warns', ' as latest figures show it has highest Covid rate in UK"\n12', "Can Labour's New Leader in Scotland Take Advantage of Disarray in SNP to Mount a Comeback?\n13", 'Former SNP MP Kenny MacAskill Won’t Hold By-Election After Defecting to Alba Party\n14', '"Starmer: Time for recovery in Scotland', ' not a referendum"\n15', "Holyrood 2021: 'Time to end the scandal of child poverty'\n16", "Sturgeon Blasts Treating Politics ‘Like a Game' Amid Spate of Defections from SNP to Salmond’s Alba\n17", "SNP applies to put 'Indyref2' on Holyrood election ballot paper\n18", 'Who’ll win the Airdrie and Shotts by-election?\n19', "Scottish Liberal Democrat election gains 'can stop SNP majority'\n20", "Tory Holyrood candidate under fire for 'offensive' comments on public sector pay and Covid\n21", 'Links 3/27/2020\n22', '"UK PM to Reportedly Warn Against ‘Reckless’ 2nd Scottish Referendum', ' Mulls Covert Unionist Strategy"\n23', 'Scottish Parliament election 2021: A really simple guide\n24', 'Will Labour or the Conservatives win the battle for second place in the Scottish election?\n25', "What does Alex Salmond's new party mean for the election?\n26", '"Nicola Sturgeon won’t resign', ' but the Salmond scandal could yet be her downfall"\n27', 'Special report: Sturgeon clings to tarnished crown after inquiries ‘lift lid on the sewer’ of SNP politics\n28', '"The Alex Salmond inquiry has failed to unsettle the SNP', ' but the vaccine roll-out might"\n29', 'Tory MPs slam Nicola Sturgeon over NHS pay rise\n30', 'Holyrood 2021: Labour pledges mental health staff for all GP clinics\n31', 'Polling: Labour voters divided over whether Labour is the party of “the north” or “London”\n32', '2021 elections: A really simple guide\n33', 'SNP to double Scottish child benefit top-up if re-elected\n34', 'Sturgeon row: Scottish Health Secretary Jeane Freeman dismisses calls for FM to quit\n35', 'Nicola Sturgeon faces fury over push for Scottish independence referendum THIS YEAR\n36', '"Fall in support for Scottish independence could be result of ‘vaccine bounce’', ' analysis suggests"\n37', 'Boris Johnson news — live: PM ‘misled parliament’ over Covid contracts as strike fund launched over 1% NHS pay rise\n38', '"Politics latest news: Roadmap out of lockdown unchanged by EU export ban', ' says No 10"\n39', '"Scots turning against SNP plan for independence referendum', ' poll finds"\n40', "Nicola Sturgeon is ridiculed for her 'forgetfulness' as she offers a 'hard to believe' excuse\n41", "Nicola Sturgeon's 'litany of lies' is 'too much for her to survive'\n42", '"Referendum bill could see Scots vote on independence this year', ' SNP say"\n43', 'Alba Party: Can Alex Salmond create a ‘super majority’ for Scottish independence?\n44', "Politics latest news: EU launches legal challenge against UK over 'unlawful' Gibraltar state aid\n45", '"Government repeatedly less strict on coronavirus than public wanted', ' poll finds"\n46', '"Politics latest news:\xa0David Frost \'playing games around Brexit\'', ' claims former mandarin"\n47', 'Nicola Sturgeon faces fury over push for Scottish independence referendum THIS YEAR\n48', 'How Scots and Catalans are looking to each other to ease their independence woes\n49', '"Trials', ' troubles and tribulations: Scots and Catalans look to each other to ease independence woes"\n50', '"SNP no longer set for Holyrood majority', ' new poll shows"\n51', 'Tories warn of Salmond threat to pro-union parties in Scottish election\n52', "Scotland's future hangs in balance as report into leader's conduct awaited\n"]
+----------------------------------------------------------------------
+
+title
+scotlands salmond launches rival proindependence party reuters africa
+scottish leader sturgeon found   have misled parliament
+sky reports reuters
+scotlands future hangs in balance as report into leaders conduct awaited reuterscom
+scotlands future hangs in balance as report into leaders conduct awaited reuters australia
+snp publishes reckless bill   second independence referendum   end  
+holyrood snps sturgeon pledges   double child payment
+holyrood election   intense battle   every vote in scotland
+how scots   catalans are looking   each other   ease their independence woes
+politics latest news government only learned about vaccine shortage in last few days
+minister admits
+douglas ross urges unionists   rediscover better together spirit     stop snp
+nicola sturgeon only able   hand large pay rise   scottish nhs staff thanks   treasury billions
+scotland cant move too fast out   lockdown
+anas sarwar warns
+as latest figures show   has highest covid rate in uk
+  labours new leader in scotland take advantage   disarray in snp   mount   comeback
+former snp mp kenny macaskill wont hold byelection after defecting   alba party
+starmer time   recovery in scotland
+    referendum
+holyrood time   end   scandal   child poverty
+sturgeon blasts treating politics like   game amid spate   defections   snp   salmonds alba
+snp applies   put indyref on holyrood election ballot paper
+wholl win   airdrie   shotts byelection
+scottish liberal democrat election gains   stop snp majority
+tory holyrood candidate under fire   offensive comments on public sector pay   covid
+links
+uk pm   reportedly warn against reckless nd scottish referendum
+mulls covert unionist strategy
+scottish parliament election   really simple guide
+  labour     conservatives win   battle   second place in   scottish election
+what does alex salmonds new party mean     election
+nicola sturgeon wont resign
+but   salmond scandal could yet be her downfall
+special report sturgeon clings   tarnished crown after inquiries lift lid on   sewer   snp politics
+  alex salmond inquiry has failed   unsettle   snp
+but   vaccine rollout might
+tory mps slam nicola sturgeon over nhs pay rise
+holyrood labour pledges mental health staff   all gp clinics
+polling labour voters divided over whether labour is   party     north   london
+elections   really simple guide
+snp   double scottish child benefit topup if reelected
+sturgeon row scottish health secretary jeane freeman dismisses calls   fm   quit
+nicola sturgeon faces fury over push   scottish independence referendum   year
+fall in support   scottish independence could be result   vaccine bounce
+analysis suggests
+boris johnson news live pm misled parliament over covid contracts as strike fund launched over nhs pay rise
+politics latest news roadmap out   lockdown unchanged   eu export ban
+says  
+scots turning against snp plan   independence referendum
+poll finds
+nicola sturgeon is ridiculed   her forgetfulness as she offers   hard   believe excuse
+nicola sturgeons litany   lies is too much   her   survive
+referendum bill could see scots vote on independence   year
+snp say
+alba party   alex salmond create   super majority   scottish independence
+politics latest news eu launches legal challenge against uk over unlawful gibraltar state aid
+government repeatedly less strict on coronavirus than public wanted
+poll finds
+politics latest newsdavid frost playing games around brexit
+claims former mandarin
+nicola sturgeon faces fury over push   scottish independence referendum   year
+how scots   catalans are looking   each other   ease their independence woes
+trials
+troubles   tribulations scots   catalans look   each other   ease independence woes
+snp   longer set   holyrood majority
+new poll shows
+tories warn   salmond threat   prounion parties in scottish election
+scotlands future hangs in balance as report into leaders conduct awaited
+ title scotlands salmond launches rival proindependence party reuters africa scottish leader sturgeon found have misled parliament sky reports reuters scotlands future hangs in balance as report into leaders conduct awaited reuterscom scotlands future hangs in balance as report into leaders conduct awaited reuters australia snp publishes reckless bill second independence referendum end holyrood snps sturgeon pledges double child payment holyrood election intense battle every vote in scotland how scots catalans are looking each other ease their independence woes politics latest news government only learned about vaccine shortage in last few days minister admits douglas ross urges unionists rediscover better together spirit stop snp nicola sturgeon only able hand large pay rise scottish nhs staff thanks treasury billions scotland cant move too fast out lockdown anas sarwar warns as latest figures show has highest covid rate in uk labours new leader in scotland take advantage disarray in snp mount comeback former snp mp kenny macaskill wont hold byelection after defecting alba party starmer time recovery in scotland referendum holyrood time end scandal child poverty sturgeon blasts treating politics like game amid spate defections snp salmonds alba snp applies put indyref on holyrood election ballot paper wholl win airdrie shotts byelection scottish liberal democrat election gains stop snp majority tory holyrood candidate under fire offensive comments on public sector pay covid links uk pm reportedly warn against reckless nd scottish referendum mulls covert unionist strategy scottish parliament election really simple guide labour conservatives win battle second place in scottish election what does alex salmonds new party mean election nicola sturgeon wont resign but salmond scandal could yet be her downfall special report sturgeon clings tarnished crown after inquiries lift lid on sewer snp politics alex salmond inquiry has failed unsettle snp but vaccine rollout might tory mps slam nicola sturgeon over nhs pay rise holyrood labour pledges mental health staff all gp clinics polling labour voters divided over whether labour is party north london elections really simple guide snp double scottish child benefit topup if reelected sturgeon row scottish health secretary jeane freeman dismisses calls fm quit nicola sturgeon faces fury over push scottish independence referendum year fall in support scottish independence could be result vaccine bounce analysis suggests boris johnson news live pm misled parliament over covid contracts as strike fund launched over nhs pay rise politics latest news roadmap out lockdown unchanged eu export ban says scots turning against snp plan independence referendum poll finds nicola sturgeon is ridiculed her forgetfulness as she offers hard believe excuse nicola sturgeons litany lies is too much her survive referendum bill could see scots vote on independence year snp say alba party alex salmond create super majority scottish independence politics latest news eu launches legal challenge against uk over unlawful gibraltar state aid government repeatedly less strict on coronavirus than public wanted poll finds politics latest newsdavid frost playing games around brexit claims former mandarin nicola sturgeon faces fury over push scottish independence referendum year how scots catalans are looking each other ease their independence woes trials troubles tribulations scots catalans look each other ease independence woes snp longer set holyrood majority new poll shows tories warn salmond threat prounion parties in scottish election scotlands future hangs in balance as report into leaders conduct awaited 
+----------------------------------------------------------------------
+Positive words:
+ease: 3
+better: 1
+fast: 1
+advantage: 1
+recovery: 1
+like: 1
+win: 2
+gains: 1
+benefit: 1
+support: 1
+super: 1
+Total number of positive words: 14
+
+
+Percentage of positive words: 0.0258%
+----------------------------------------------------------------------
+Negative words:
+rival: 1
+hangs: 3
+reckless: 2
+intense: 1
+shortage: 1
+disarray: 1
+scandal: 2
+poverty: 1
+offensive: 1
+downfall: 1
+tarnished: 1
+failed: 1
+unsettle: 1
+fury: 2
+fall: 1
+strike: 1
+forgetfulness: 1
+hard: 1
+excuse: 1
+lies: 1
+unlawful: 1
+strict: 1
+frost: 1
+troubles: 1
+threat: 1
+Total number of negative words: 30
+
+
+Percentage of negative words: 0.0554%
+----------------------------------------------------------------------
+
+进程已结束，退出代码为 0
